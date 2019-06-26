@@ -1,0 +1,6 @@
+use_frameworks!
+target 'plugin_Tests' do
+  pod 'plugin', :path => '../'
+  
+  
+end

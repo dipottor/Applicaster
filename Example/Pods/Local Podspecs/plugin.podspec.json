@@ -1,0 +1,22 @@
+{
+  "name": "plugin",
+  "version": "0.1.0",
+  "summary": "A short description of plugin.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ravindra563@gmail.com/plugin",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ravindra563@gmail.com": "ravindra.kumbhar@sugarboxnetworks.com"
+  },
+  "source": {
+    "git": "https://github.com/ravindra563@gmail.com/plugin.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "plugin/Classes/**/*"
+}

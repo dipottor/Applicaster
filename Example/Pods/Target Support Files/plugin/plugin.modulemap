@@ -1,0 +1,6 @@
+framework module plugin {
+  umbrella header "plugin-umbrella.h"
+
+  export *
+  module * { export * }
+}

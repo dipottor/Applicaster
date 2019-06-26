@@ -1,0 +1,16 @@
+PODS:
+  - plugin (0.1.0)
+
+DEPENDENCIES:
+  - plugin (from `../`)
+
+EXTERNAL SOURCES:
+  plugin:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  plugin: bffbfd9bcbd0ed157a4adc38e7ec06d251b92190
+
+PODFILE CHECKSUM: 0a37e82b23a2edb2118064fb260cd79c4424d2c2
+
+COCOAPODS: 1.7.2
